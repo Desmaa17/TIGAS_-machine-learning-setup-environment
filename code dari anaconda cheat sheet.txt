@@ -1,0 +1,15 @@
+1. conda search opencv
+2. conda info
+3. conda create --name LATIHAN_2 python=3.6
+4.conda env list
+5. conda list
+6. conda activate LATIHAN
+7. conda list (list)
+8. python
+9. impotr cv2
+10. v2__version__
+11. untuk kluar ctr_z
+`	conda info --envs
+12. conda activate coba_coba
+13. conda deactivate
+14. conda activate coba_coba
